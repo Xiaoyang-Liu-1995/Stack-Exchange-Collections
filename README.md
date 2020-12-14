@@ -6,6 +6,8 @@
 
 ### Logic
 
+- [Can I prove that 𝐴⇒¬𝐵 is false given 𝐴⟺(𝐵∨𝐶)?](https://math.stackexchange.com/questions/3745852/can-i-prove-that-a-rightarrow-neg-b-is-false-given-a-iffb%e2%88%a8c)
+
 ### Analysis
 
 ### Advise
