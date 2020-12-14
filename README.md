@@ -1,16 +1,9 @@
 # Stack Exchange Collections
 
-[algebra](#algebra)
-
-## :notebook_with_decorative_cover: Questions
-
-### Algebra
+# :notebook_with_decorative_cover: Questions
 
 - [Restrictions on vector spaces over arbitrary fields](https://math.stackexchange.com/questions/3749661/restrictions-on-vector-spaces-over-arbitrary-fields)
-
 - [Prove the condition for system of linear equations to be solvable](https://math.stackexchange.com/questions/3919005/prove-the-condition-for-system-of-linear-equations-to-be-solvable)
-
-# Algebra
 
 ### Logic
 
