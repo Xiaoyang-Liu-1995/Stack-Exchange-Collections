@@ -1,6 +1,6 @@
 # Stack Exchange Collections
 
-Bring me to [Answers](##answers)
+Bring me to [Answers](https://github.com/IQ404/Stack-Exchange-Collections/## :notebook_with_decorative_cover: Answers)
 
 ## :notebook_with_decorative_cover: Questions
 
