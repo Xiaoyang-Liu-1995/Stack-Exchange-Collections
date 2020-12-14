@@ -6,8 +6,6 @@
 
 ### Logic
 
-$\neq$
-
 ### Analysis
 
 ## Answers
