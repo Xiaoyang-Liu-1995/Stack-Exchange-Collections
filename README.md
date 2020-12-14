@@ -29,8 +29,8 @@
 
 ### Advise
 
-- (Mathematics Stack Exchange)[How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://math.stackexchange.com/questions/3913963/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
-- (MathOverflow)[How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://mathoverflow.net/questions/376859/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
+- (Mathematics Stack Exchange) [How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://math.stackexchange.com/questions/3913963/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
+- (MathOverflow) [How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://mathoverflow.net/questions/376859/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
 
 ### Reference
 
