@@ -1,5 +1,7 @@
 # Stack Exchange Collections
 
+[algebra](###algebra)
+
 ## :notebook_with_decorative_cover: Questions
 
 ### Algebra
