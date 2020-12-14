@@ -1,6 +1,6 @@
 # Stack Exchange Collections
 
-Bring me to [Answers](##:notebook_with_decorative_cover:Answers)
+Bring me to [Answers](## :notebook_with_decorative_cover:Answers)
 
 ## :notebook_with_decorative_cover: Questions
 
