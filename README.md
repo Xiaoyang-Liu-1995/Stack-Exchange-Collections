@@ -2,13 +2,13 @@
 
 ## :notebook_with_decorative_cover: Questions
 
-### :full_moon: Algebra
+### Algebra
 
 - [Restrictions on vector spaces over arbitrary fields](https://math.stackexchange.com/questions/3749661/restrictions-on-vector-spaces-over-arbitrary-fields)
 
 - [Prove the condition for system of linear equations to be solvable](https://math.stackexchange.com/questions/3919005/prove-the-condition-for-system-of-linear-equations-to-be-solvable)
 
-### :full_moon: Logic
+### Logic
 
 - [Can I prove that 𝐴⇒¬𝐵 is false given 𝐴⟺(𝐵∨𝐶)?](https://math.stackexchange.com/questions/3745852/can-i-prove-that-a-rightarrow-neg-b-is-false-given-a-iffb%e2%88%a8c)
 - [How to prove that two empty lists have the same elements in the same order using vacuous implication?](https://math.stackexchange.com/questions/3752031/how-to-prove-that-two-empty-lists-have-the-same-elements-in-the-same-order-using)
