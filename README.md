@@ -30,11 +30,20 @@
 
 ### Advise
 
-- [How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://math.stackexchange.com/questions/3913963/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
+- (Mathematics Stack Exchange)[How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://math.stackexchange.com/questions/3913963/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
+- (MathOverflow)[How much algebra is preferable for studying/doing research in dynamical/complex system and networks](https://mathoverflow.net/questions/376859/how-much-algebra-is-preferable-for-studying-doing-research-in-dynamical-complex)
 
 ### Reference
 
 - [Can Aluffi's Algebra Chapter 0 act as a starting point for learning abstract and (advanced) linear algebra?](https://math.stackexchange.com/questions/3744953/can-aluffis-algebra-chapter-0-act-as-a-starting-point-for-learning-abstract-and)
+
+### Programming
+
+#### R
+
+- [Problem with the outputs from using double square brackets](https://stackoverflow.com/questions/64513325/problem-with-the-outputs-from-using-double-square-brackets)
+- [Do we talk about reference type and primitive type in R?](https://stackoverflow.com/questions/64620852/do-we-talk-about-reference-type-and-primitive-type-in-r)
+
 ## Answers
 
 ### Logic
