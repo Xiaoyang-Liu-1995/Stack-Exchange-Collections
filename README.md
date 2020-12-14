@@ -1,1 +1,1 @@
-# Stack-Exchange-Q&A
+# Stack Exchange Collections
