@@ -1,6 +1,6 @@
 # Stack Exchange Collections
 
-## Questions
+## :notebook: Questions
 
 ### Algebra
 
