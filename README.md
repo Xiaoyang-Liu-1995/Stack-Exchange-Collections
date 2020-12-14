@@ -1,6 +1,6 @@
 # Stack Exchange Collections
 
-Bring me to [Answers](## Answers)
+Bring me to [Answers](##:notebook_with_decorative_cover:Answers)
 
 ## :notebook_with_decorative_cover: Questions
 
@@ -46,7 +46,7 @@ Bring me to [Answers](## Answers)
 - [Problem with the outputs from using double square brackets](https://stackoverflow.com/questions/64513325/problem-with-the-outputs-from-using-double-square-brackets)
 - [Do we talk about reference type and primitive type in R?](https://stackoverflow.com/questions/64620852/do-we-talk-about-reference-type-and-primitive-type-in-r)
 
-## Answers
+##:notebook_with_decorative_cover:Answers
 
 ### Logic
 
